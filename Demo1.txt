@@ -1,2 +1,7 @@
 Hi
+<<<<<<< HEAD
 Hello
+=======
+Hello
+>>>>>>> 9cd0a605256c863f0d9872dbc7f8227994bb1abd
+“Smile is the beauty of the soul.”
